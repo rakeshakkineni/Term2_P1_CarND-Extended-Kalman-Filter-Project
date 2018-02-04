@@ -35,19 +35,19 @@ Following is brief description of the flow of the code.
 ### Output
 Kalman Filter was able to estimate the position of the vehicle. 
 
--In the following picture the estimated path followed by the vehicle is in green. 
+- In the following picture the estimated path followed by the vehicle is in green. 
 
-[image1]
+![alt text][image1]
 
 - RMSE for each scan is printed in a text file. Using the printed data graphs were ploted to understand the trend of the RMSE for each parameter. 
 
-[image2]
+![alt text][image2]
 
-[image3]
+![alt text][image3]
 
-[image4]
+![alt text][image4]
 
-[image5]
+![alt text][image5]
 
 ## Result:
 Initially all the parameters start with a huge RMSE value but eventually RMSE values for all the parameters fall below Rubics criteria. 
