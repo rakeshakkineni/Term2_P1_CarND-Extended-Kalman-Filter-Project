@@ -48,3 +48,6 @@ Kalman Filter was able to estimate the position of the vehicle.
 [image4]
 
 [image5]
+
+## Result:
+Initially all the parameters start with a huge RMSE value but eventually RMSE values for all the parameters fall below Rubics criteria. 
